@@ -15,15 +15,15 @@
 
 ###基于电影的协同过滤算法
 * 建立物品的同现矩阵  
-  ![image](https://github.com/ParadeTo/Recommend/tree/master/img/theory-5.png)
+  ![image](https://github.com/ParadeTo/Recommend/blob/master/img/theory-5.png)
 * 建立用户对物品的评分矩阵  
-  ![image](https://github.com/ParadeTo/Recommend/tree/master/img/theory-6.png)
+  ![image](https://github.com/ParadeTo/Recommend/blob/master/img/theory-6.png)
 * 矩阵计算推荐结果  
-  ![image](https://github.com/ParadeTo/Recommend/tree/master/img/theory-7.png)
+  ![image](https://github.com/ParadeTo/Recommend/blob/master/img/theory-7.png)
 
 ###MapReduce实现
 * 程序流程图  
- ![image](https://github.com/ParadeTo/Recommend/tree/master/mapreduce.jpg)
+ ![image](https://github.com/ParadeTo/Recommend/blob/master/mapreduce.jpg)
 * Java类说明  
 Recommend.java--主任务启动程序  
 Step1.java--按用户分组，计算所有物品出现的组合列表，得到用户对物品的评分矩阵  
