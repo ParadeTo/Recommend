@@ -11,7 +11,8 @@
 * 利用用户对电影的打分表来给用户推荐电影，用户打分表包括以下字段
     * userID--用户ID号
     * itemID--电影ID号
-    * score--评分
+    * score--评分  
+    ![image](https://github.com/ParadeTo/Recommend/blob/master/img/theory-5.png)
 
 ###基于电影的协同过滤算法
 * 建立物品的同现矩阵  
