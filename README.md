@@ -33,7 +33,7 @@
 * Step4_Update2.java--矩阵相乘加法部分  
 * Step5.java--对结果进行过滤和排序  
 * HDFSFile.java--HDFS路径文件操作类  
-* SortHashMap.java--HashMap排序类
+* SortHashMap.java--HashMap排序类  
 3 程序输出结果  
 * Step1  
  ![image](https://github.com/ParadeTo/Recommend/blob/master/img/step1-out.png)  
