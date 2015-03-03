@@ -49,5 +49,5 @@ SortHashMap.java--HashMap排序类
  ![image](https://github.com/ParadeTo/Recommend/blob/master/img/step5-out-my.png)
 
 ###关于
-该项目基于[炼数成金](http://www.dataguru.cn/)《Hadoop应用开发实战案例 第六期》课堂作业进行优化
+该项目基于[炼数成金](http://www.dataguru.cn/)《Hadoop应用开发实战案例 第六期》所提过的案例进行优化
 
