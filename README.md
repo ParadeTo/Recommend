@@ -14,7 +14,7 @@
     * score--评分  
     ![image](https://github.com/ParadeTo/Recommend/blob/master/img/theory-5.png)
 
-###基于电影的协同过滤算法
+###基于物品的协同过滤算法
 * 建立物品的同现矩阵  
   ![image](https://github.com/ParadeTo/Recommend/blob/master/img/theory-6.png)
 * 建立用户对物品的评分矩阵  
